@@ -37,7 +37,7 @@
     client_without_trx.csv - список клиентов, у которых нет транзакций.
     list_uniq_client_target.csv - список уникальных клиентов.
     esult_sample_Client_Month_df_12_06_2024.parquet - расширенный сэмпл клиентов используемый для генерации эбеддингов.
-    
+    Ссылка для **[скачивания](https://disk.yandex.ru/d/D6HiwFPZa9LEOg)**
 
 ## Установка и использование
 
