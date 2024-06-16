@@ -63,6 +63,8 @@ esult_sample_Client_Month_df_12_06_2024.parquet
     jupyter notebook create_agg_trx_v7_1.ipynb
     jupyter notebook create_agg_ptls_v7_1.ipynb
     jupyter notebook create_agg_target_v2.ipynb
+ 
+## Используйте Jupyter notebooks для обучения модели:
     jupyter notebook Optuna_Ansamble.ipynb
     jupyter notebook baseline_v1_8_7.ipynb
 
