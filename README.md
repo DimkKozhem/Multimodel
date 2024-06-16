@@ -43,9 +43,7 @@
 
     Установите необходимые зависимости:
 
-    pip install -result_sample_Client_Month_df_12_06_2024.parquet requirements.txt
-esult_sample_Client_Month_df_12_06_2024.parquet
-
+    pip install requirements.txt
 
 ## Используйте Jupyter notebooks для генерации и обработки фичей:
 
