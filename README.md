@@ -28,13 +28,11 @@
 
     Установите необходимые зависимости:
 
-    bash
+    pip install -r requirements.txt
 
-pip install -r requirements.txt
+
 
 Используйте Jupyter notebooks для генерации и обработки фичей:
-
-bash
 
     jupyter notebook gen_sample_pairs_Client_Month.ipynb
     jupyter notebook create_normalize_trx.ipynb
